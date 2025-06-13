@@ -31,7 +31,7 @@ Tidak perlu lagi bertanya "Pesan apa yang kamu hapus barusan?" 😏
 
 ## 🖼️ Cuplikan Layar
 
-<img src="https://raw.githubusercontent.com/frostyxsec/RukaRecover/main/screenshot.jpg" alt="Screenshot RukaRecover" width="400">
+<img src="https://raw.githubusercontent.com/frostyxsec/RukaRecover/refs/heads/main/screenshot.jpg" alt="Screenshot RukaRecover" width="400">
 
 ---
 
