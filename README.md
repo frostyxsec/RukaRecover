@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Memulihkan pesan yang terhapus dengan mudah</b><br />
-  Dibuat oleh <a href="https://github.com/frostynxth">@frostynxth</a>
+  Dibuat oleh <a href="https://github.com/frostyxsec">@frostyxsec</a>
 </p>
 
 ---
@@ -65,8 +65,8 @@ Jika kamu menyukai proyek ini, beri ⭐ pada repositori ini atau traktir kopi di
 
 ## 🧑‍💻 Developer
 
-**frostynxth**  
-🔗 GitHub: [@frostynxth](https://github.com/frostynxth)
+**frostyxsec**  
+🔗 GitHub: [@frostyxsec](https://github.com/frostyxsec)
 
 ---
 
